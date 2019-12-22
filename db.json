@@ -8,6 +8,31 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Jefatura"
+    },
+    {
+      "id": 2,
+      "name": "Sub-Jefatura"
+    },    
+    {
+      "id": 3,
+      "name": "Inspectoria"
+    },
+    {
+      "id": 4,
+      "name": "DICRIM"
+    },
+    {
+      "id": 5,
+      "name": "Delitos Monetarios"
+    }
+
+
+
+  ],
   "profile": {
     "name": "typicode"
   }
